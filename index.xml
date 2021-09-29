@@ -23,7 +23,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://flooflord.github.io/about/</guid>
-      <description>About me</description>
+      <description>Hello,my name is Val Kaplun and welcome to my blog</description>
     </item>
     
     <item>
@@ -32,7 +32,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://flooflord.github.io/resume/</guid>
-      <description>This is my Resume </description>
+      <description>Resume Valeriy Kaplun
+kaplun.valeriy@gmail.com
+856-278-4414
+West Chester, PA
+Technologies    Languages DevOps Tools OS Database Machine Learning Data Engineering Software Management Cloud     Python Docker Ubuntu Oracle Tensorflow SSIS Rally AWS   Go Kubernetes Windows Server SQL Server Xgboost Airflow Jira Private Cloud   Bash Terraform CentOS Postgres Sklearn Pandas     SQL Concourse   Jupyter Notebooks      Rust Github          Skills  API development Data wrangling Statistical analysis SQL query tunning Agile software development ML modeling Data mining ETL (Extract, Transform, Load) Data architecture Created automation script  Description Devops Engineer within a business intelligence team working on improving the teams data infrastructure, creating or improving data pipelines, and automation.</description>
     </item>
     
   </channel>

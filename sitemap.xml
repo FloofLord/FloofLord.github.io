@@ -8,7 +8,13 @@
     <loc>https://flooflord.github.io/posts/</loc>
     <lastmod>2021-09-18T12:13:04-04:00</lastmod>
   </url><url>
+    <loc>https://flooflord.github.io/series/</loc>
+    <lastmod>2021-09-18T12:13:04-04:00</lastmod>
+  </url><url>
     <loc>https://flooflord.github.io/posts/first/</loc>
+    <lastmod>2021-09-18T12:13:04-04:00</lastmod>
+  </url><url>
+    <loc>https://flooflord.github.io/series/test/</loc>
     <lastmod>2021-09-18T12:13:04-04:00</lastmod>
   </url><url>
     <loc>https://flooflord.github.io/about/</loc>
@@ -18,8 +24,6 @@
     <priority>0</priority>
   </url><url>
     <loc>https://flooflord.github.io/blog/</loc>
-  </url><url>
-    <loc>https://flooflord.github.io/series/</loc>
   </url><url>
     <loc>https://flooflord.github.io/tags/</loc>
   </url>
